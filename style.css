@@ -38,3 +38,14 @@ li:hover {
 i {
     margin-right: 0.25rem;
 }
+
+@media(max-width: 712px){
+    .navbar {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    li {
+        margin: 1rem 0;
+    }
+}
