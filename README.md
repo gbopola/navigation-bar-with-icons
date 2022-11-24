@@ -1,3 +1,3 @@
-# navigation-bar-with-icons
+# Navbar with icons 
 
 Navigation bar with icons project from YouTube
